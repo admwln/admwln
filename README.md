@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @admwln
 - 👀 I’m interested in web midi
-- 🌱 I’m currently learning React, WordPress and C#
-- 💞️ I’m looking to collaborate on creative coding projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking for an web dev internship in the Gothenburg region!
